@@ -14,5 +14,5 @@ $ npx prisma studio
 
 Migrate prisma db.
 ```
-$ prisma db push
+$ npx prisma db push
 ```
