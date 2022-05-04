@@ -4,10 +4,15 @@ This is the starter project for the fullstack tutorial with Next.js and Prisma. 
 
 Run app.
 ```
-npm run dev
+$ npm run dev
 ```
 
 Run prisma studio.
 ```
-npx prisma studio
+$ npx prisma studio
+```
+
+Migrate prisma db.
+```
+$ prisma db push
 ```
